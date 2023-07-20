@@ -1,0 +1,4 @@
+Open SOFA and go to edit/Plugin Manager
+Click 'add' and go to sofa_instalation_folder/plugin/SofaPython3/lib/
+Add the SofaPython3.so
+

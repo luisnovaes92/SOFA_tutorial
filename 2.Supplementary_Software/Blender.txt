@@ -1,0 +1,9 @@
+https://www.blender.org/download/release/Blender3.6/blender-3.6.1-linux-x64.tar.xz/
+
+extract the .tar.xz
+
+inside the blender folder
+
+./blender
+
+or jus run by clicking on the file.

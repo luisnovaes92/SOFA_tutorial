@@ -1,0 +1,3 @@
+https://gmsh.info/bin/Linux/gmsh-4.11.1-Linux64.tgz
+
+Extract and run the gmsh inside bin file

@@ -1,0 +1,1 @@
+git clone git@github.com:Brazilian-Institute-of-Robotics/softrobots_sofa_scenes.git -b feat-cobra-scenes 
